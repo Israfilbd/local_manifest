@@ -7,9 +7,12 @@
   <project path="device/realme/RMX1901" name="ij-israfil/device_realme_RMX1901" remote="ghub" revision="derp-14" />
 	
  <!-- Vendor Trees -->
- <project path="vendor/realme/RMX1901" name="ij-israfil/vendor_realme_RMX1901" remote="ghub" revision="13" />
+ <project path="vendor/realme/RMX1901" name="israfil/vendor_realme_RMX1901" remote="gitlab" revision="14" />
 	
  <!-- Kernel Trees-->
- <project path="kernel/realme/RMX1901" name="ij-israfil/kernel_realme_RMX1901" remote="ghub" revision="dev.337" />
+ <project path="kernel/realme/sdm710" name="israfilbd/kernel_realme_sdm710" remote="ghub" revision="14" />
+
+<!-- Viper4android -->
+ <project path="packages/apps/ViPER4AndroidFX" name="ij-israfil/packages_apps_ViPER4AndroidFX" remote="ghub" revision="v4a_2.7.1" />
 
 </manifest>
