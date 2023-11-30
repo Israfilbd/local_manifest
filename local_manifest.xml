@@ -4,10 +4,10 @@
                 fetch="https://github.com" />
  
 <!-- Device Trees --> 
-  <project path="device/realme/RMX1901" name="ij-israfil/device_realme_RMX1901" remote="ghub" revision="14-test" />
+  <project path="device/realme/RMX1901" name="ij-israfil/device_realme_RMX1901" remote="ghub" revision="evox-14" />
 	
  <!-- Vendor Trees -->
- <project path="vendor/realme/RMX1901" name="israfil/vendor_realme_RMX1901" remote="gitlab" revision="14" />
+ <project path="vendor/realme/RMX1901" name="ij-israfil/vendor_realme_RMX1901" remote="gitlab" revision="14b" />
 	
  <!-- Kernel Trees-->
  <project path="kernel/realme/sdm710" name="israfilbd/android_kernel_realme_sdm710" remote="ghub" revision="14" />
